@@ -42,5 +42,10 @@
         "post-update-cmd": [
             "@check"
         ]
-    }
+    },
+    "scripts-descriptions": {
+        "check": "Roda as verificações no código. PHAN, PHPCS e PHPUNIT"
+    },
+    "license": "GPL-3.0",
+    "bin": ["buscar-cursos.php"]
 }
